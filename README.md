@@ -17,7 +17,7 @@ HTML and CSS Refactoring to fix broken links
 
 
 ## Links
-Deployed updated landing page link [Github.io](https://schorij23.github.io/week-1-challenge/)
+Deployed updated landing page link [Github.io](https://schorij23.github.io/code-refactor/)
 
 
 ## License
