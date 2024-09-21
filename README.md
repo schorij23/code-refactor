@@ -26,6 +26,7 @@ This project is licensed under the MIT license.
   
 ## Screenshot
 
+![Landing Page](./assets/images/Week%201.png)
 
 ## Questions
 
